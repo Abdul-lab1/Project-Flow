@@ -1,0 +1,7 @@
+Hi, my name is Abdul Wahab, and I am a Data Engineer with over 3 years of experience in building and maintaining scalable data solutions. My expertise lies in leveraging technologies like Databricks, Azure Data Factory, ADLS Blob Storage, PySpark, SQL, and Python to design and implement efficient data pipelines.
+
+I specialize in automating data ingestion, transformation, and loading for large datasets, handling both batch and real-time processing. In my previous roles, I’ve built data workflows in Azure Data Factory and optimized PySpark workflows within Databricks to ensure high performance and cost efficiency. Additionally, I’ve written optimized SQL queries for data extraction and transformation, improving reporting and analytics outcomes.
+
+I am proficient in scripting and automating transformations in Python, which has helped streamline workflows and reduce manual intervention. My experience also includes monitoring and optimizing Databricks clusters, collaborating with cross-functional teams, and implementing best practices for data storage and processing in ADLS Blob Storage to maintain data quality and consistency.
+
+I’ve worked in agile environments, using tools like GitHub for version control and Jira for task management, ensuring smooth project delivery. I’m excited about leveraging my skills and expertise to contribute to your organization’s data initiatives and drive meaningful insights.
