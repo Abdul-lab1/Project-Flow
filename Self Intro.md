@@ -24,4 +24,4 @@ Throughout my projects, I have ensured smooth collaboration by managing code ver
 
 - Collaborated with cross-functional teams to implement best practices for storing, organizing, and processing data in **ADLS Blob Storage**, ensuring optimal data access and retrieval performance.
 
-- Tested and validated data pipelines, ensuring accurate data movement between **ADLS Blob Storage** and target systems while maintaining d
+- Tested and validated data pipelines, ensuring accurate data movement between **ADLS Blob Storage** and target systems while maintaining datapipelines.
